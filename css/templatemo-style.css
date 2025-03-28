@@ -363,8 +363,7 @@ address {
 .tm-section,
 .tm-container-inner,
 .tm-container-inner-2 {
-  margin-left: auto;
-  margin-right: auto;
+  margine: 1rem, auto 0 auto;
 }
 
 .tm-list {
