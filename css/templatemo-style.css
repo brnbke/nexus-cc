@@ -367,6 +367,13 @@ address {
   margin-right: auto;
 }
 
+.tm-list {
+  font-size: 0.95rem;
+  color: #626364;
+  line-height: 1.6;
+  margin: 0 0 2rem 1rem;
+}
+
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
   .tm-gallery-page {
